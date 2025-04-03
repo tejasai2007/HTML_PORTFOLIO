@@ -1,0 +1,150 @@
+body{
+    background-color: rgb(18, 59, 100);
+}
+a:hover{
+    font-weight: bold;
+    color:black
+}
+#dash{
+    height: 7%;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: rgb(58, 125, 220);
+}
+
+
+#h{
+
+    font-size: 150%;
+    color: rgb(255, 255, 255);
+    margin-top: 0;
+    position: absolute;
+    top:1.5%;
+    left: 1%;
+    opacity: 1 ;
+    z-index: 2;
+}
+#prep{
+    font-size: 100%;
+    color: rgb(255, 255, 255);
+    margin-top: 0;
+    margin-left: 3%;
+    position: absolute;
+    top: 2.3%;
+    left: 100px;
+}
+
+
+#cert{
+    font-size: 100%;
+    color: rgb(255, 255, 255);
+    margin-top: 0;
+    margin-left: 3%;
+    position: absolute;
+    top: 2.3%;
+    left: 150px;
+}
+#comp{
+    font-size: 100%;
+    color: rgb(255, 255, 255);
+    margin-top: 0;
+    margin-left: 7%;
+    position: absolute;
+    top: 2.3%;
+    left: 210px;
+}
+#app{
+    font-size: 100%;
+    margin-left: 7%;
+    margin-top: 0;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 2.3%;
+    left: 290px;
+}
+#pyt{
+    height:120px;
+    width:200px;
+    background-color:rgb(4, 4, 71);
+    font-size: 20px;
+    font-weight: 800px;
+    color:rgb(226, 253, 255);
+    position: absolute;
+    top:15%;
+    border-radius: 12%;
+    z-index: 3;
+}
+
+#pyt:hover{
+    color:rgb(179, 153, 203);
+    height:150px;
+    width: 250px;;
+    position: absolute;
+    top:14%;
+    
+
+}
+
+
+#ps{
+    
+    height:120px;
+    width:220px;
+    background-color:rgb(4, 4, 71);
+    font-size: 20px;
+    padding-left:10px;
+    font-weight: 800px;
+    color:rgb(226, 253, 255);
+    position: absolute;
+    top:15%;
+    left:260px;
+    border-radius: 12%;
+    z-index: 3;
+}
+#ps:hover{
+    color:rgb(179, 153, 203);
+    height: 150px;;
+    width:250px;
+    position: absolute;
+    
+
+}
+#a{
+    color: white;
+    position:absolute;
+    
+    
+    left:34%;
+    top:21%;
+    font-size: 20px;
+    opacity: 0.5;
+}
+#b{
+    color: white;
+    position:absolute;
+    left:10%;
+    top:21%;
+    font-size: 20px;
+    opacity: 0.5;
+
+}
+a{
+    color: azure;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    
+}
+
+#p{
+    position: absolute;
+    top: 75%;
+    left: 10%;
+}
+#q{
+    position: absolute;
+    top: 90%;
+    left: 10%;
+}
